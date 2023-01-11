@@ -1,12 +1,5 @@
 # Pinjam Ruang
- 
- # Nama Kelompok:
-1. Amalia Yuna Puspita
-2. Dewi Ayu Alamanda Purnama
-3. Mayla Zida Rahma Izzati
-4. Nanda Safira
-5. Renylia Septianingsih
-6. Salsabila Siti Mubarani 
+Aplikasi berbasis website untuk melakukan peminjaman ruang di sekolah 
 
 # Dokumentasi
 Cara Memasang 
@@ -18,7 +11,7 @@ Cara Memasang
 
 Penjelasan
 
- Di sekolah kami, selalu ada kegiatan sub organisasi yang membutuhkan forum setiap harinya, karena forum dilaksanakan pada jam yang sama setiap sub organisasi dan ruangan yang disediakan juga terbatas, ini menyebabkan sering terjadi bentrok antar sub organisasi. Saat melakukan peminjaman ruang pun juga sedikit merepotkan. Kita harus menemui Bapak satpam terlebih dahulu untuk meminta surat izin pinjam ruang yang nantinya harus ditandatangani dan diizinkan oleh Bapak suko selaku waka sarana dan prasarana sekolah dan juga kesiswaan. Sehingga menurut kami cara ini kurang efisiean. Berawal dari sinilah kami berinisiatif untuk membuat sebuah web yang dapat memudahkan peminjaman ruang disekolah kami untuk kepentingan forum disekolah kami.
+ Di sekolah kami, selalu ada beberapa kegiatan sub organisasi yang membutuhkan forum setiap harinya. Dikarenakan forum dilaksanakan pada jam yang sama setiap sub organisasi dan ruangan yang disediakan juga terbatas, hal itu menyebabkan sering terjadi bentrok antar sub organisasi. Selain itu, saat melakukan peminjaman ruang pun juga sedikit merepotkan alurnya. Kita harus menemui Bapak satpam terlebih dahulu untuk meminta surat izin pinjam ruang yang nantinya harus ditandatangani dan diizinkan oleh Bapak suko selaku waka sarana dan prasarana sekolah dan juga kesiswaan. Sehingga dapat disimpulkan bahwa cara tersebut kurang efisiean. Berawal dari permasalahan inilah timbul ide atau inisiatif untuk membuat sebuah website yang dapat memudahkan peminjaman ruang disekolah kami untuk kepentingan forum disekolah kami.
  
 Berikut merupakan tampilan dan sedikit penjelasan dari web kami : 
 
